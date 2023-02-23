@@ -47,7 +47,7 @@
             android:layout_width="241dp"
             android:layout_height="48dp"
             android:ems="10"
-            android:hint="Ingrese su peso en libras:"
+            android:hint="Ingrese su peso:"
             android:inputType="textPersonName"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
