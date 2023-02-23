@@ -58,8 +58,6 @@ public class calculoDeIMC extends AppCompatActivity {
         catch (Exception e){
             Toast.makeText(this, "Porfavor ingrese datos correctos.", Toast.LENGTH_SHORT).show();
         }
-
-
     }
     }
 
